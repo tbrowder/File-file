@@ -6,6 +6,7 @@
   "build-depends": [
   ],
   "depends": [
+    "Proc::Easier"
   ],
   "description": "Provides a Raku wrapper for the system 'file' command",
   "license": "Artistic-2.0",

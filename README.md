@@ -8,12 +8,14 @@ SYNOPSIS
 
 ```raku
 use File::file;
+my $o = File::file.new;
+say $o.file: ".."; # OUTPUT: «..: directory␤»
 ```
 
 DESCRIPTION
 ===========
 
-**File::file** is ...
+**File::file** is a convenience wrapper around the system 'file' command.
 
 AUTHOR
 ======

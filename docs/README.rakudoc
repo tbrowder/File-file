@@ -9,12 +9,13 @@ B<File::file> - Provides a Raku wrapper for the system 'file' command
 =begin code :lang<raku>
 
 use File::file;
-
+my $o = File::file.new;
+say $o.file: ".."; # OUTPUT: «..: directory␤»
 =end code
 
 =head1 DESCRIPTION
 
-B<File::file> is ...
+B<File::file> is a convenience wrapper around the system 'file' command.
 
 =head1 AUTHOR
 
