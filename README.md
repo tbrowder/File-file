@@ -1,3 +1,5 @@
+[![Actions Status](https://github.com/tbrowder/File-file/actions/workflows/linux.yml/badge.svg)](https://github.com/tbrowder/File-file/actions) [![Actions Status](https://github.com/tbrowder/File-file/actions/workflows/macos.yml/badge.svg)](https://github.com/tbrowder/File-file/actions) [![Actions Status](https://github.com/tbrowder/File-file/actions/workflows/windows.yml/badge.svg)](https://github.com/tbrowder/File-file/actions)
+
 NAME
 ====
 
