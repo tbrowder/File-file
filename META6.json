@@ -1,0 +1,25 @@
+{
+  "auth": "zef:tbrowder",
+  "authors": [
+    "Tom Browder"
+  ],
+  "build-depends": [
+  ],
+  "depends": [
+  ],
+  "description": "Provides a Raku wrapper for the system 'file' command",
+  "license": "Artistic-2.0",
+  "name": "File::file",
+  "perl": "6.d",
+  "provides": {
+    "File::file": "lib/File/file.rakumod"
+  },
+  "resources": [
+  ],
+  "source-url": "",
+  "tags": [
+  ],
+  "test-depends": [
+  ],
+  "version": "0.0.1"
+}

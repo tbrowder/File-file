@@ -1,0 +1,6 @@
+use Test;
+use File::file;
+
+pass "replace me";
+
+done-testing;
